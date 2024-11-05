@@ -13,9 +13,16 @@
 .nav ul li {
     padding: 0 1em;
 }
-
+.nav a {
+    font-size: 1.5em;
+}
 .nav a, .nav-toggle {
     color: #333;
+}
+
+.nav a:hover {
+    color: #EEE;
+    text-decoration:underline;
 }
 
 .nav-toggle {
