@@ -1,11 +1,11 @@
 ---
-Title: Home
+Title: Svante
 Description: This is our index page.
 ---
 
-Home page
+Svantes hemsida
 ==========================
 
-The source for this page is in `content/index.md`.
+Jag är numera hemmapappa, student och Malmöbo. Nu har jag insett att life hacking är jättekul. Jag älskar att springa. Gärna i naturen, i skogen eller vid havet. Familjen och all möjlig teknik är roligast just nu. Det kör vi på!
 
-This is a sample home page written in markdown with some frontmatter defined.
+![beach](image/beach.png){.beach}
