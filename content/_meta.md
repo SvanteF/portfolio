@@ -4,5 +4,5 @@ Tagline: Student at BTH.
 Social:
     - title: Link till sidans github repo.
       url: https://github.com/SvanteF/portfolio
-      icon: github
+      icon: fab fa-github
 ---
