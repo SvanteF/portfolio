@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@0;1&family=Playfair+Display:ital@0;1&display=swap');
+
 @import '../../shared/fontawesome/scss/fontawesome';
 $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/brands';
@@ -10,14 +12,16 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import 'blockquotes';
 @import 'code';
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+
 
 * {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Nunito", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Playfair Display", serif;
+
 }
 
 body {
