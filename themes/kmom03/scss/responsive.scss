@@ -1,0 +1,62 @@
+@media (max-width: 768px) {
+  .title {
+    min-width: 50%;
+  }
+
+  .logo {
+    max-width: 30%;
+  }
+
+  //generic.scss
+
+  .main {
+    padding: 1em;
+    max-width: 90vw;
+  }
+
+  .frontpage {
+    grid-template-columns: 1fr;
+
+    h1 {
+      grid-row: 1;
+      grid-column: span 1;
+      justify-self: center;
+    }
+    
+    .beach {
+      grid-column: 1;
+      grid-row: 3;
+      width: 100%;
+    }
+  
+    .intro-text {
+      grid-row: 2;
+      grid-column: 1;
+    }
+  }
+
+  //technology.scss
+  .landingpage {
+    grid-template-columns: 1fr;
+  }
+
+  .box2,
+  .box3,
+  .landingpage h1 {
+    grid-column: span 1;
+  }
+
+  //tech.scss
+  .container {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  .content {
+    width: 100%;
+    margin: 0 auto;
+  }
+}
