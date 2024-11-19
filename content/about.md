@@ -1,6 +1,7 @@
 ---
 Title: Om
 Description: This is our about page.
+Template: generic
 ---
 
 Om
