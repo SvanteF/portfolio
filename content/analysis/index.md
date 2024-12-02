@@ -11,7 +11,7 @@ Template: technologies
 </div>
 
 <div class="box box2">
-<a href="%base_url%?analysis/02_load">Laddningstider</a>
+<a href="%base_url%?analysis/02_load">Prestanda</a>
 </div>
 
 <div class="box box3">
