@@ -37,7 +37,7 @@ Sidorna som testats är [dbwebb.se](https://dbwebb.se/), [dbwebb.se/kurser/webte
 
 <br>
 
-<iframe class="measurements" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTW-yi-04086kjfSIWB0lCm-KwPc-8MCbJOWATXmjLXqWEDRltpfDcSDUVTDTaOXOrpBP7ckqO-brAb/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe class="measurements" title="measurement 1" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTW-yi-04086kjfSIWB0lCm-KwPc-8MCbJOWATXmjLXqWEDRltpfDcSDUVTDTaOXOrpBP7ckqO-brAb/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
 <br>
@@ -60,7 +60,7 @@ Sidorna som testats är [di.se](https://www.di.se/), [di.se/bors](https://www.di
 
 <br>
 
-<iframe class="measurements" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_PS6telgTLiQhvIAYaV-3g1lJebc9CisQM1s0c87TcYYZux4WdqqG5mTYfwB644syhx8Gk7zS7vov/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe class="measurements" title="measurement 2" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_PS6telgTLiQhvIAYaV-3g1lJebc9CisQM1s0c87TcYYZux4WdqqG5mTYfwB644syhx8Gk7zS7vov/pubhtml?widget=true&amp;headers=false"></iframe>
 
 <br>
 
@@ -82,7 +82,7 @@ Sidorna som testats är [coinmarketcap.com](https://coinmarketcap.com/), [coinma
 
 <br>
 
-<iframe class="measurements" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6KgyeJDzAuazxFqTmbkFU_QSuS50DuNR7uyUM2-e3m0KNK3LDpoppr6Xn2K5uaCtKKPC1xPwoaNs8/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe class="measurements" title="measurement 3" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6KgyeJDzAuazxFqTmbkFU_QSuS50DuNR7uyUM2-e3m0KNK3LDpoppr6Xn2K5uaCtKKPC1xPwoaNs8/pubhtml?widget=true&amp;headers=false"></iframe>
 
 <br>
 
