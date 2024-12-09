@@ -1,0 +1,28 @@
+.landingpage {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(200px, 1fr));
+  gap: 1em;
+}
+
+.landingpage h1 {
+  grid-column: span 3;
+  justify-self: center;
+}
+
+.box {
+  background-color: $background-alternative-color;
+  border: solid $font-alternative-color 1px;
+  border-radius: 5px;
+  font-size: 2em;
+  font-weight: bold;
+  padding: 40px 20px;
+  box-shadow: 10px 10px 5px 0 $shadow-color;
+}
+
+.box2 {
+  grid-column: span 2;
+}
+
+.box3 {
+  grid-column: span 3;
+}

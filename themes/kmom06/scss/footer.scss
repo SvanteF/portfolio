@@ -1,0 +1,18 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid $font-alternative-color;
+  padding-top: 10px;
+}
+
+.footer a {
+  color: $font-alternative-color;
+}
+
+.footer .social {
+  font-size: 3rem;
+  display: flex;
+  gap: 20px;
+  padding-right: 10px;
+}
